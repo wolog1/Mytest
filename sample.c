@@ -9,6 +9,7 @@
 int main(int argc, char *argv[])
 {
     printf("Hello world!\n");
+	printtf("第二次测试\n");
     return 0;
 
 }
